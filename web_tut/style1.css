@@ -1,0 +1,27 @@
+body{
+    margin: 10;
+    padding: 20;
+    box-sizing: border-box;
+   background-color: cornflowerblue;
+    margin-right: 25rem;
+    justify-items: right;
+    
+}
+
+#header{
+    text-align: center;
+    letter-spacing: 2px;
+    color: darkolivegreen;
+}
+#main{
+    color: chartreuse;
+}
+#body{
+    color: cyan;
+}
+#target{
+    color: aquamarine;
+}
+#back{
+    color: brown;
+}
